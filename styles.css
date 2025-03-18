@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+}
+
+.post {
+    margin: 0 auto;
+    width: 500px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.post-icons  {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 0px;
+}
+
+.left-icons {
+    display: flex;
+    align-items: center;
+}
+
+.icono {
+    padding: 10px;
+    font-size: 30px;
+}
+
+.likes {
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.rigoberto {
+    margin-top: -13px;
+}
+
+.lorem-ipsum {
+    margin-top: 0px;
+    padding: 10px;
+    padding-bottom: 30px;
+}
+
+.post-img {
+    width: 100%;
+}
+
